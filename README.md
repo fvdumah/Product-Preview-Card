@@ -24,15 +24,17 @@ Users should be able to:
 ### Screenshot
 
 - Mobile View
+
 ![](./images/mobileview.png)
 
 - Tablet + Desktop View
+
 ![](./images/desktopview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fvdumah/Product-Preview-Card)
-- Live Site URL: [Add live site URL here](https://fvdumah.github.io/Product-Preview-Card/)
+- Solution URL: [(https://github.com/fvdumah/Product-Preview-Card)]
+- Live Site URL: [(https://fvdumah.github.io/Product-Preview-Card/)]
 
 ## My process
 
