@@ -102,3 +102,9 @@
   }
 
   /* Hover States */
+
+  button:hover, button:active {
+    background-color: #1A4032;
+    cursor: pointer;
+  }
+
